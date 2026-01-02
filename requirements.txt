@@ -1,0 +1,34 @@
+# Core Dependencies
+openai
+elasticsearch
+python-dotenv
+sentence_transformers
+
+
+
+# Web Scraping
+cloudscraper
+beautifulsoup4
+lxml
+
+# PDF Processing
+PyPDF2
+
+# UI Framework
+streamlit
+
+# Utilities
+requests
+urllib3
+
+# Optional but Recommended
+pandas
+
+numpy
+
+
+
+
+
+
+
